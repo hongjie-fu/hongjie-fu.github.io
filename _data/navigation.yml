@@ -1,7 +1,7 @@
  # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Awards & Honors"
   #   url: /awards/
@@ -15,11 +15,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  #- title: "My Lab"
+  # - title: "My Lab"
   #  url: /lab/
   
-  - title: "CV&Contact"
-    url: /cv&contact/  
+  # - title: "CV&Contact"
+  #   url: /cv&contact/  
 
   - title: "Blogs"
     url: /year-archive/
