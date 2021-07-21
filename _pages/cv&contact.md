@@ -4,12 +4,12 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf)
+[English CV [PDF]](https://)
 
-[Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf)
+[Chinese CV [PDF]](https://)
 
 # Contact
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
-Beijing, 100093, China<br>
-Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
+School of International Studies, Shaanxi Normal University<br>
+No.199, South Chang’an Road, Yanta District,
+Xi'an, China<br>
+Email: hongjie.fu [at] hotmail.com
