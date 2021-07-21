@@ -4,8 +4,11 @@ date: 2021-07-22
 permalink: /posts/2021/07/new experience/
 tags:
   - 新体验
+  - new experience
 ---
 
-## first part
+## first blog
 
-时间过得好快啊，一下子7月都要到月末了
+时间过得好快啊，一下子7月都要到月末咯
+
+## 加油学习
