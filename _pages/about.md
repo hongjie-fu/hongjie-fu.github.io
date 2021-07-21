@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: " "
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ![Image of Me](https://hongjie-fu.github.io/images/grad.jpeg) 
-<br>I am currently a Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/), [Shaanxi Normal University](https://www.snnu.edu.cn/). <br>
+
+# Abour me
+I am currently a Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/), [Shaanxi Normal University](https://www.snnu.edu.cn/). <br>
 
 
 # Research
