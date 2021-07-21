@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongjie Fu"
 title_separator          : "-"
 name                     : &name "Hongjie Fu"
-description              : &description "PhD student in Cognitive Linguistics. School Of International Studies, SNNU"
+description              : &description "PhD student in Linguistics. School Of International Studies, SNNU"
 url                      : https://hongjie-fu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongjie-fu/hongjie-fu.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Hongjie Fu"
   avatar           : "avatar.png" # "hongjiefu.jpg" #
-  bio              : "PhD student in Cognitive Linguistics. School Of International Studies, SNNU"
+  bio              : "PhD student in Linguistics. School Of International Studies, SNNU"
   location         : "Xi'an, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/"
@@ -105,7 +105,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : # "u/2200292887"
+  weibo            : 
   xing             :
   youtube          : 
   wikipedia        : 
