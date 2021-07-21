@@ -10,11 +10,7 @@ redirect_from:
 ![Image of Me](https://hongjie-fu.github.io/images/grad.jpeg) 
 
 # About me
-I am currently a Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/), [Shaanxi Normal University](https://www.snnu.edu.cn/). <br><br>
-
-
-# Research
-My research interests mainly lie in theoretical linguistics, cognitive grammar, and construction grammmar. <br><br>
+I am currently a Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/), [Shaanxi Normal University](https://www.snnu.edu.cn/). My research interests mainly lie in theoretical linguistics, cognitive grammar, and construction grammmar. <br><br>
 
 
 # Publications
@@ -22,8 +18,8 @@ My research interests mainly lie in theoretical linguistics, cognitive grammar, 
 
 
 # Honors and Awards
-*  Research member of a National Social Science Fund Project (No. 14BYY008).
-*  [National Scholarship for Master students].  Ministry of Education of P.R. China. 2020.
+*  Research member of a National Social Science Fund Project (No. 14BYY008). 2020.
+*  National Scholarship.  Awarded by Ministry of Education of P.R. China. 2020.
 
 <!---Activity and Service--->
 <!---Experience--->
