@@ -1,6 +1,9 @@
  # main links links
 main:
-  - title: "Publications"
+    - title: "Blogs"
+    url: /year-archive/
+    
+    - title: "Publications"
     url: /publications/
 
   # - title: "Awards & Honors"
@@ -18,12 +21,9 @@ main:
   #- title: "My Lab"
   #  url: /lab/
   
-  - title: "CV&Contact"
-    url: /cv&contact/  
+  - title: "Contact"
+    url: /contact/  
 
-  - title: "Blogs"
-    url: /year-archive/
-  
   # - title: "中文介绍"
   #  url: /chinese/  
   
