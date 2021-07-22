@@ -1,14 +1,12 @@
 ---
-title: '新的体验'
+title: '第一篇帖子'
 date: 2021-07-22
 permalink: /posts/2021/07/new_experience/
 tags:
-  - 新体验
-  - new experience
+  - 部落格
 ---
 
-## first blog
+Hello world！
 
-时间过得好快啊，一下子7月都要到月末咯
 
-## 加油学习
+*按照惯例，say hello to this wonderful world!*
