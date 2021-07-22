@@ -8,5 +8,4 @@ tags:
 
 Hello world！
 <br>
-<br>
 \**按照惯例，say hello to this wonderful world!*
