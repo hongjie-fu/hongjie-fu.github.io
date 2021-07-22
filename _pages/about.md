@@ -18,7 +18,7 @@ I am currently a first-year Ph.D. student in the [School of International Studie
 
 
 # Honors and Awards
-*  Research member of a National Social Science Fund Project (No. 14BYY008). 2020.
+*  Research member of a National Social Science Fund Project (*No. 14BYY008*). 2020.
 *  *National Scholarship*.  Awarded by Ministry of Education of P.R. China. 2020.
 
 <!---Activity and Service--->
