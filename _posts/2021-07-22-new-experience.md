@@ -6,8 +6,5 @@ tags:
   - 部落格
 ---
 
-Hello world！
-
-
-
+Hello world！<br>
 \**按照惯例，say hello to this wonderful world!*
