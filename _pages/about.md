@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![Image of Me](https://hongjie-fu.github.io/images/grad.jpeg) 
 
-# About
+# About me
 I am currently a first-year Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/). My research interests mainly lie in theoretical linguistics, cognitive grammar, and construction grammmar. <br><br>
 
 
