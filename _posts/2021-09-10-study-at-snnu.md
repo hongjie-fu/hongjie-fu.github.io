@@ -1,11 +1,11 @@
 ---
-title: '#1 study at snnu'
+title: '#1 Study at SNNU'
 date: 2021-09-10
 permalink: /posts/2021/09/studyatsnnu/
 tags:
-  - 开始读博
+  - 又上学啦
 ---
 
-教师节快乐
+今天是9月10日，欢度教师节！
 
 
