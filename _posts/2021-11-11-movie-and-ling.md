@@ -7,6 +7,7 @@ tags:
   - 语言
 ---
 ![tomato](https://hongjie-fu.github.io/files/posts/tomato.png)
+
 *rotten tomatoes* is a popular movie rating website.
 
 <br>学习工作之余，很多小伙伴都会选择看电影来作为日常的娱乐消遣。为什么大家这么喜欢看电影呢？一个重要原因就是我们喜欢听故事。电影可以让我们在其讲述的故事中感受到多样的人生、不同的生活。
