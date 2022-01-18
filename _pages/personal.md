@@ -9,8 +9,12 @@ author_profile: true
 - - -
 I can do 15 pull-ups in one go.
 - - -
-playing with a kitten
+Playing with a kitten
 
 ![image of a kitten](https://hongjie-fu.github.io/files/posts/kitten.jpg)
 
 ![image of a kitten2](https://hongjie-fu.github.io/files/posts/kitten2.jpeg)
+
+- - -
+Coffee lover
+![image of a coffee](https://hongjie-fu.github.io/files/posts/tims.jpeg)
