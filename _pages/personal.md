@@ -17,4 +17,5 @@ Playing with a kitten
 
 - - -
 Coffee lover
-![image of coffee](https://hongjie-fu.github.io/files/posts/tims.jpg)
+
+![image of tims](https://hongjie-fu.github.io/files/posts/tims.jpg)
