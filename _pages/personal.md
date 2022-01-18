@@ -14,7 +14,7 @@ Playing with a kitten
 
 ![image of a kitten2](https://hongjie-fu.github.io/files/posts/kitten2.jpeg)
 - - -
-I can do 15 pull-ups in one go
+I can do 18 pull-ups in one go
 
 ![image of a pull-up](https://hongjie-fu.github.io/files/posts/pull-up.jpeg)
 - - -
