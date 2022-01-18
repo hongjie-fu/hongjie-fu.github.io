@@ -1,5 +1,5 @@
 ---
-title: "个人简介"
+title: "Personal Things"
 permalink: /personal/
 author_profile: true
 ---
