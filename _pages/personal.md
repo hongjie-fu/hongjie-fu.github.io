@@ -19,3 +19,11 @@ Playing with a kitten
 Coffee lover
 
 ![image of tims](https://hongjie-fu.github.io/files/posts/tims.jpg)
+- - -
+Drinking Yakult with my nephew
+
+![image of nephew](https://hongjie-fu.github.io/files/posts/nephew.jpg)
+- - -
+Me at the airport
+
+![image of airport](https://hongjie-fu.github.io/files/posts/airport.jpeg)
