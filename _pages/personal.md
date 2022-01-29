@@ -26,6 +26,6 @@ Drinking Yakult with my nephew
 
 ![image of nephew](https://hongjie-fu.github.io/files/posts/nephew.jpg)
 - - -
-Trying to be muscular
+At HGH (Hangzhou Xiaoshan Int'l Airport)
 
 ![image of airport](https://hongjie-fu.github.io/files/posts/airport.jpeg)
