@@ -26,7 +26,7 @@ construal涉及多个维度，和本文相关的是其中的scope：
 
 这个概念可以用和身体相关的词汇来进一步说明：
 
->body > arm > hand > finger. 
+>body > arm > hand > finger 
 
 到了finger这里，又可细分为 knucke, fingertip, fingernail.
 
@@ -36,6 +36,8 @@ construal涉及多个维度，和本文相关的是其中的scope：
 >b.	??An arm has 14 knuckles and 5 nails.<br>
 >c.	???A body has 56 knuckles and 20 nails.<br>
 
-看到这里，再回到这个hashtag#谷爱凌人生最高兴的一秒#，相信屏幕前聪明的你已经明白它为什么有点怪，而且知道如何去解释了。
+看到这里，再回到这个hashtag #谷爱凌人生最高兴的一秒#，相信屏幕前聪明的你已经明白它为什么有点怪，而且知道如何去解释了。
 
-哈哈，“一天中最高兴的一秒”是不是比“人生中最高兴的一秒”要自然许多呢？#看冬奥，学认知#
+哈哈，“一天中最高兴的一秒”是不是比“人生中最高兴的一秒”要自然许多呢？
+
+#看冬奥，学认知#
