@@ -28,7 +28,7 @@ construal涉及多个维度，和本文相关的是其中的scope：
 
 >body > arm > hand > finger 
 
-到了finger这里，又可细分为 knucke, fingertip, fingernail.
+到了finger这里，又可细分为 knuckle, fingertip, fingernail.
 
 试比较：
 
