@@ -1,7 +1,7 @@
 ---
 title: '盒区房：重新分析的一个实例'
 date: 2022-06-21
-permalink: /posts/2022/02/freshippo/
+permalink: /posts/2022/06/freshippo/
 tags:
   - 盒区房
   - 学区房
