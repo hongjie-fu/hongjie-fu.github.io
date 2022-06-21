@@ -7,6 +7,7 @@ tags:
   - 学区房
 ---
 ![image of freshippo](https://hongjie-fu.github.io/files/posts/hippo.jpeg)
+
 “盒区房”是最近几年新出现的一个词，比如：
 >（1）南宁首家盒马鲜生9月开张，这些小区晋升“盒区房”。
 
