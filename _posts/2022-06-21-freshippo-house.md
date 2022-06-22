@@ -27,7 +27,6 @@ tags:
 商品质量有保障 | 教学质量有保障
 开设的门店有限 | 学校数量少
 
-学区房本来应该是“学区+房”，但是有证据表明现在其被分析成了“X+区房”（如盒区房、[电区房](https://baike.baidu.com/item/%E7%94%B5%E5%8C%BA%E6%88%BF/58087260)、[节区房](https://finance.sina.com.cn/chanjing/cyxw/2021-07-30/doc-ikqciyzk8547106.shtml)）。当然可以肯定的是，不是任何词都能进入X，我认为背后是概念整合（conceptual blending）这个认知机制在起作用。“盒区房”这个新词能够被普遍接受正是由于盒马和优质学校具有表中所列的这些共同点，两者具有类似的frame。简单地说，盒马作为输入空间1，而学区房作为输入空间2，最后被整合为盒区房。
-
+学区房本来应该是“学区+房”，但是有证据表明现在其被分析成了“X+区房”（如盒区房、[电区房](https://baike.baidu.com/item/%E7%94%B5%E5%8C%BA%E6%88%BF/58087260)、[节区房](https://finance.sina.com.cn/chanjing/cyxw/2021-07-30/doc-ikqciyzk8547106.shtml)）。“盒区房”这个新词能够被普遍接受正是由于盒马和优质学校具有表中所列的这些共同点，两者具有类似的frame。当然可以肯定的是，不是任何词都能进入X，这背后更深层次的原因很可能是概念整合（conceptual blending）这个普遍的认知思维机制在起作用。
 
 ![image of freshippo](https://hongjie-fu.github.io/files/posts/hippo.jpeg)
