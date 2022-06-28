@@ -1,6 +1,6 @@
 ---
 title: "Personal Things"
-permalink: /personal/
+permalink: /Gallery/
 author_profile: true
 ---
 
@@ -25,7 +25,4 @@ Coffee lover
 Drinking Yakult with my nephew
 
 ![image of nephew](https://hongjie-fu.github.io/files/posts/nephew.jpg)
-- - -
-At HGH (Hangzhou Xiaoshan Int'l Airport)
 
-![image of airport](https://hongjie-fu.github.io/files/posts/airport.jpeg)
