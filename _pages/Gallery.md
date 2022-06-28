@@ -1,5 +1,5 @@
 ---
-title: "Personal Things"
+title: "Gallery"
 permalink: /Gallery/
 author_profile: true
 ---
