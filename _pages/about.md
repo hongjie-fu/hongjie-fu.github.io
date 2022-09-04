@@ -10,7 +10,7 @@ redirect_from:
 ![Image of Me](https://hongjie-fu.github.io/images/grad.jpeg) 
 
 # About me
-I am currently a first-year Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, cognitive grammar, and construction grammmar. <br><br>
+I am currently a second-year Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, cognitive grammar, and construction grammmar. <br><br>
 
 
 # Publications
