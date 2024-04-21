@@ -12,8 +12,8 @@ I am currently a third-year Ph.D. student in the [School of International Studie
 
 
 # Publications
-2024, "Review of Construction Grammar: The Strucuture of English". *Contemporary Linguistics*. <br>
-2021, "[How is *Chi tianguang* Possible?](https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZJJX202101013&DbName=CJFQ2021". <br> Published in *Journal of Zhejiang International Studies University.* <br><br>
+2024, "Review of Construction Grammar: The Strucuture of English". in *Contemporary Linguistics*. <br>
+2021, "[How is *Chi tianguang* Possible?](https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZJJX202101013&DbName=CJFQ2021)". in *Journal of Zhejiang International Studies University.* <br><br>
 
 
 # Honors and Awards
