@@ -13,7 +13,7 @@ I am currently a third-year Ph.D. student in the [School of International Studie
 
 # Publications
 2024, "构式路径的应用与扩展——《构式语法：英语的结构》评介[A Review of *Construction Grammar: The Strucuture of English*]". 当代语言学[*Contemporary Linguistics*]. <br><br>
-2021, "吃天光何以可能？[[How is *Chi tianguang* Possible?](https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZJJX202101013&DbName=CJFQ2021)]". 浙江外国语学院学报[*Journal of Zhejiang International Studies University*]. <br><br>
+2021, "[吃天光何以可能](https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZJJX202101013&DbName=CJFQ2021)？[How is *Chi tianguang* Possible?]". 浙江外国语学院学报[*Journal of Zhejiang International Studies University*]. <br><br>
 
 
 # Honors and Awards
