@@ -7,6 +7,11 @@ author_profile: true
 
 **It’s all a matter of construal.        – Ron Langacker**  
 
+
+- - -
+Visiting Tsinghua
+
+![image of Tsinghua](https://hongjie-fu.github.io/files/posts/Tsinghua.jpg)
 - - -
 Playing with a kitten
 
