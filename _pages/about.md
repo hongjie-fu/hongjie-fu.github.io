@@ -13,7 +13,7 @@ I am currently a fourth-year Ph.D. student in the [School of International Studi
 
 # Publications
 2024<br>
-"[构式路径的应用与扩展——《构式语法：英语的结构》评介](https://kns.cnki.net/kcms2/article/abstract?v=7fc2yiS_nyCri7XrgAwEn9YWsQWDY-bHbcczojE71AiuLMJGYYDFC54fazhztFNa7LOS66oEdSXkMKIivCr-6Bn1qX2FG5HoCkYzkZgq5hrM0oLjSOOgEf83YqjGAmCyg6tTUW3DmkTBoOJv-A1kIbfeowJyBCzC&uniplatform=NZKPT)" <font size= 4>[A Review of *Construction Grammar: The Strucuture of English*].</font> 当代语言学[*Contemporary Linguistics*]. <br><br>
+"[构式路径的应用与扩展——《构式语法：英语的结构》评介](https://kns.cnki.net/kcms2/article/abstract?v=7fc2yiS_nyCri7XrgAwEn9YWsQWDY-bHbcczojE71AiuLMJGYYDFC54fazhztFNa7LOS66oEdSXkMKIivCr-6Bn1qX2FG5HoCkYzkZgq5hrM0oLjSOOgEf83YqjGAmCyg6tTUW3DmkTBoOJv-A1kIbfeowJyBCzC&uniplatform=NZKPT)" [A Review of *Construction Grammar: The Strucuture of English*]. 当代语言学[*Contemporary Linguistics*]. <br><br>
 2021<br>
 "[吃天光何以可能？](https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZJJX202101013&DbName=CJFQ2021)"
 [How is *Chi tianguang* Possible?]. 浙江外国语学院学报[*Journal of Zhejiang International Studies University*]. <br><br>
