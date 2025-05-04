@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # About me
-I am currently a fourth-year Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, Cognitive Grammar, and Construction Grammmar. <br><br>
+I am currently a fourth-year Ph.D. student in the [School of International Studies](http://www.wyxy.snnu.edu.cn/) at [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, Cognitive Grammar, and Construction Grammar. <br><br>
 
 
 # Publications
