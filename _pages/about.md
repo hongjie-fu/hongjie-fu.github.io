@@ -12,6 +12,8 @@ I am currently a fourth-year Ph.D. student in the [School of International Studi
 
 
 # Publications
+2025<br>
+"[“并存不悖”还是“势不两立”？——构式网络中的横向关系与纵向关系]([https://kns.cnki.net/kcms2/article/abstract?v=7fc2yiS_nyCri7XrgAwEn9YWsQWDY-bHbcczojE71AiuLMJGYYDFC54fazhztFNa7LOS66oEdSXkMKIivCr-6Bn1qX2FG5HoCkYzkZgq5hrM0oLjSOOgEf83YqjGAmCyg6tTUW3DmkTBoOJv-A1kIbfeowJyBCzC&uniplatform=NZKPT](https://kns.cnki.net/kcms2/article/abstract?v=djJQlkjC3sBeIJcK6D8qEuHgfv8kXF6QWaV1liv2IuwLnUzgS6TLD3iOGNjtNG7ZmockoP4IO-Gv3D7QDAoRNomxzJkFyJgQYPHAN4_NPNboypOsKF9QhWpwVwpJ-9gSF9PZ5smN_R2Xfbe04N1sEA==&uniplatform=NZKPT&language=CHS))" [Friends or enemies? A review of horizontal links and vertical links in the network of constructions*]. 语言学研究[*Linguistic Research*]. <br><br>
 2024<br>
 "[构式路径的应用与扩展——《构式语法：英语的结构》评介](https://kns.cnki.net/kcms2/article/abstract?v=7fc2yiS_nyCri7XrgAwEn9YWsQWDY-bHbcczojE71AiuLMJGYYDFC54fazhztFNa7LOS66oEdSXkMKIivCr-6Bn1qX2FG5HoCkYzkZgq5hrM0oLjSOOgEf83YqjGAmCyg6tTUW3DmkTBoOJv-A1kIbfeowJyBCzC&uniplatform=NZKPT)" [A Review of *Construction Grammar: The Strucuture of English*]. 当代语言学[*Contemporary Linguistics*]. <br><br>
 2021<br>
