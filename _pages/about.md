@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # About me
-I am a lecturer in the [Faculty of Foreign Lauguages](https://ffl.nbu.edu.cn/) at [Ningbo University](https://www.nbu.edu.cn). I received my Ph.D. from [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, Cognitive Grammar, and Construction Grammar. <br><br>
+I am a lecturer in the [Faculty of Foreign Languages](https://ffl.nbu.edu.cn/) at [Ningbo University](https://www.nbu.edu.cn). I received my Ph.D. from [Shaanxi Normal University](https://www.snnu.edu.cn/), under the supervision of Professor [Ren Zhang](http://www.wyxy.snnu.edu.cn/info/1179/6333.htm). My research interests mainly lie in theoretical linguistics, Cognitive Grammar, and Construction Grammar. <br><br>
 
 
 # Publications
